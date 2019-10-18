@@ -1,0 +1,11 @@
+Makefile
+readcmd.c
+readcmd.h
+readcmd.o
+shell
+shell.c
+shell.o
+toto
+tst
+tst.c
+tst.o
